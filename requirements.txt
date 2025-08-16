@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+requests
+beautifulsoup4
+feedparser
+vaderSentiment
+sqlalchemy
+jinja2
+pdfkit
+python-dateutil
+
